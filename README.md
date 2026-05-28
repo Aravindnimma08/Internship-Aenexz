@@ -9,3 +9,5 @@ Python Programs to find the area of a circle, largest of three numbers, calculat
 This mini project is a Number Guessing Game developed using Python. The computer generates a random number between 1 and 100 using the `random` module, and the user tries to guess it. The program uses a `while` loop and conditional statements to give hints like “Too high” or “Too low” until the correct number is guessed.
 # TASK 4 :
 Data cleaning and preprocessing of the Iris Kaggle dataset, including handling missing values, duplicates, wrong data types, and outliers.
+# TASK 5 :
+The Titanic dataset is analyzed through filtering,and grouped statistics to understand fare patterns and survival trends. The project creates additional features such as family size and fare per person, then uses groupby to compare outcomes across passenger class and gender
