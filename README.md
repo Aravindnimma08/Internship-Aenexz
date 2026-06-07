@@ -11,3 +11,5 @@ This mini project is a Number Guessing Game developed using Python. The computer
 Data cleaning and preprocessing of the Iris Kaggle dataset, including handling missing values, duplicates, wrong data types, and outliers.
 # TASK 5 :
 The Titanic dataset is analyzed through filtering,and grouped statistics to understand fare patterns and survival trends. The project creates additional features such as family size and fare per person, then uses groupby to compare outcomes across passenger class and gender
+# TASK 7 :
+Using the Customers and Orders tables: ● Show customers who have placed orders along with their OrderID. ● Show all customers and their OrderID, including customers who have not placed any orders. ● Insert (103, 4) into the Orders table and find orders that do not have a matching customer. ● Show all customers and all orders, including unmatched records from both tables. ● Insert (104, 1) into the Orders table and display the total number of orders placed by each customer, including customers with 0 orders.
